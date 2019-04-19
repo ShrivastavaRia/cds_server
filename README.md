@@ -1,6 +1,6 @@
-# CDS Lab Evaluation Server
+# CDS Lab Server
 
-This is the CDS LAB Evaluation Server.
+This is the CDS LAB Server.
 A tiny web service that invokes programs on the command line and measures their execution time.
 
 ## Requirements
